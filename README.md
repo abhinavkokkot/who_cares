@@ -87,6 +87,18 @@ The interface uses a dark, terminal-inspired visual style across the main flows:
 ![Human Profile](docs/screenshots/Screenshot%202026-09-12%20142943.png)
 *Personal encounter QR code and the scan-a-human form.*
 
+![Judge a Human](docs/screenshots/Screenshot%202026-09-12%20150141.png)
+*Rating panel for scoring a human's aura and intentionally ridiculous personality attributes.*
+
+![Human Performance Report](docs/screenshots/Screenshot%202026-09-12%20150210.png)
+*Confidential performance report summarizing the subject's aura index and measured human parameters.*
+
+![WHO_CARES? Court](docs/screenshots/Screenshot%202026-09-12%20150247.png)
+*Satirical appeal court delivering a final verdict on a submitted human review.*
+
+![Certificate of Humanity](docs/screenshots/Screenshot%202026-09-12%20150349.png)
+*Certificate recognizing a user's provisional humanity and current aura index.*
+
 ### Workflow
 
 1. Register a human profile with a selfie and profile details.
