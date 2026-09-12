@@ -67,13 +67,25 @@ npm run build
 
 ### Screenshots
 
-Add screenshots to a `docs/screenshots/` folder and link them here:
+The interface uses a dark, terminal-inspired visual style across the main flows:
 
-1. My Human QR — personal encounter QR code and scanner.
-2. Global Human Rankings — tiered leaderboard of evaluated humans.
-3. Locate Human — searchable human profile cards.
-4. Summon Random Human — random human acquisition flow.
-5. Human Profile — ratings, encounters, and performance details.
+![Home dashboard](docs/screenshots/Screenshot%202026-09-12%20142837.png)
+*Home dashboard with quick actions, aura statistics, and today's specimens.*
+
+![My Human QR](docs/screenshots/Screenshot%202026-09-12%20142846.png)
+*Personal encounter QR code and the scan-a-human form.*
+
+![Global Human Rankings](docs/screenshots/Screenshot%202026-09-12%20142915.png)
+*Tiered leaderboard showing global human rankings and review scores.*
+
+![Locate Human](docs/screenshots/Screenshot%202026-09-12%20142931.png)
+*Search and filter humans by nickname, gender, beard, glasses, and college.*
+
+![Summon Random Human](docs/screenshots/Screenshot%202026-09-12%20142938.png)
+*Random human acquisition screen with generated stats and recommendations.*
+
+![Human Profile](docs/screenshots/Screenshot%202026-09-12%20142943.png)
+*Human profile dossier with ratings, encounters, and profile details.*
 
 ### Workflow
 
