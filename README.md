@@ -70,22 +70,22 @@ npm run build
 The interface uses a dark, terminal-inspired visual style across the main flows:
 
 ![Home dashboard](docs/screenshots/Screenshot%202026-09-12%20142837.png)
-*Home dashboard with quick actions, aura statistics, and today's specimens.*
+*Human profile dossier with ratings, encounters, and profile details.*
 
 ![My Human QR](docs/screenshots/Screenshot%202026-09-12%20142846.png)
-*Personal encounter QR code and the scan-a-human form.*
+*Home dashboard with quick actions, aura statistics, and today's specimens.*
 
 ![Global Human Rankings](docs/screenshots/Screenshot%202026-09-12%20142915.png)
-*Tiered leaderboard showing global human rankings and review scores.*
+*Random human acquisition screen with generated stats and recommendations.*
 
 ![Locate Human](docs/screenshots/Screenshot%202026-09-12%20142931.png)
 *Search and filter humans by nickname, gender, beard, glasses, and college.*
 
 ![Summon Random Human](docs/screenshots/Screenshot%202026-09-12%20142938.png)
-*Random human acquisition screen with generated stats and recommendations.*
+*Tiered leaderboard showing global human rankings and review scores.*
 
 ![Human Profile](docs/screenshots/Screenshot%202026-09-12%20142943.png)
-*Human profile dossier with ratings, encounters, and profile details.*
+*Personal encounter QR code and the scan-a-human form.*
 
 ### Workflow
 
