@@ -1,101 +1,107 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="WHO_CARES?" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
-
-
-# [Project Name] 🎯
-
+# WHO_CARES? 🎯
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name: sunlight
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
-### Project Description
-[2-3 lines about what your project does]
+- Abhinav K (Team Lead)
+- Ashwath Shiva P
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+## Project Description
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+WHO_CARES? is a deliberately useless human-evaluation platform where people create profiles, discover other humans, rate their completely arbitrary traits, and receive meaningless tiers and reports.
+
+It turns everyday personality judgments into a playful product page with rankings, encounters, QR codes, certificates, and appeals settled by a coin toss.
+
+## The Problem (that doesn't exist)
+
+Humans have no standardized way to measure aura, NPC energy, food-sharing probability, reply speed, or their ability to survive a zombie apocalypse.
+
+## The Solution (that nobody asked for)
+
+WHO_CARES? gives every human a profile, a score, a tier, and a professionally meaningless evaluation from other humans.
 
 ## Technical Details
+
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+- JavaScript
+- React
+- Vite
+- Tailwind CSS
+- lucide-react
+- Web Crypto API
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+- No special hardware required
+- Optional camera for selfie verification
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+## Implementation
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+### Installation
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+```bash
+npm install
+```
 
-![Final](Add photo of final product here)
-*Explain the final build*
+### Run
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+```bash
+npm run dev
+```
 
-# Additional Demos
-[Add any extra demo materials/links]
+### Production Build
+
+```bash
+npm run build
+```
+
+## Project Documentation
+
+### Screenshots
+
+Add screenshots to a `docs/screenshots/` folder and link them here:
+
+1. My Human QR — personal encounter QR code and scanner.
+2. Global Human Rankings — tiered leaderboard of evaluated humans.
+3. Locate Human — searchable human profile cards.
+4. Summon Random Human — random human acquisition flow.
+5. Human Profile — ratings, encounters, and performance details.
+
+### Workflow
+
+1. Register a human profile with a selfie and profile details.
+2. Search for humans or summon one randomly.
+3. Submit ratings across deliberately arbitrary categories.
+4. View tiers, rankings, reports, certificates, and encounter QR codes.
+5. Appeal a review through the 50/50 coin-settled appeal court.
+
+## Project Demo
+
+### Video
+
+Add the project demo video link here.
+
+### Additional Demos
+
+- Live development server: `npm run dev`
+- Production preview: `npm run build` followed by `npm run preview`
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+- Abhinav K: Application architecture, React implementation, authentication flow, profile system, ratings, rankings, and deployment.
+- Ashwath Shiva P: Product concept, testing, content, and project presentation.
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
+
+Made with love at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
-
